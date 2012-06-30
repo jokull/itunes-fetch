@@ -1,0 +1,4 @@
+requests==0.13.2
+rfc6266==0.0.2
+
+https://github.com/kennethreitz/clint/zipball/develop # clint
